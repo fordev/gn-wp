@@ -1,0 +1,2 @@
+# gn-wp
+Gerencianet wordpress
